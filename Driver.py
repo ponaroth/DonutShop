@@ -35,5 +35,4 @@ cart.append(twist)
 cart.append(twist)
 
 
-
 print("the total is ", '${:,.2f}'.format(getTotal()))
